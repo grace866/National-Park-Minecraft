@@ -11,6 +11,7 @@ Features include
 - procedural cave systems (Avery)
 - L system rivers (Grace)
 - screen-space reflections using deferred rendering (Grace)
+- shadow mappping (Gracie)
 - weather (Avery)
 - day/night cycle (Avery)
 - AI pathfinding npcs (Gracie)
@@ -18,4 +19,7 @@ Features include
 
 More coming soon...
 
+<p align="center">
+  <img src="https://github.com/grace866/National-Park-Minecraft/blob/main/Screenshot%202026-09-09%20112830.png" width="1000"><br>
+</p>
 
